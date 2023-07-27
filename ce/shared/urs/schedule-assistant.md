@@ -23,6 +23,8 @@ Select the **Book** option:
 
 After launching the schedule assistant, it populates filters based on criteria like work location, characteristics, territory, resource types, and more. Dispatchers can refine results by adjusting filters to meet their scheduling needs and find the right resource.
 
+*Note: The maximum search resource availability limit is 1000 entries. For organizations with a large number of resources, it is possible that the search might be incomplete. In such an instance, a customization is available in the Resource Availability Retrieval Limit of Booking Setup Metadata to raise the 1000 entry limit,  albeit with a potential impact on search performance.
+
 <!-- add details for every filter and merge with advanced filters article? -->
 
 ## Time zone for schedule assistant search results
