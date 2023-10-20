@@ -7,7 +7,7 @@ author: lalexms
 ms.author: laalexan
 ---
 
-# Provision Omnichannel for Customer Service
+# Provision Omnichannel for Customer Service (CIO)
 
 [!INCLUDE[cc-use-with-omnichannel](../includes/cc-use-with-omnichannel.md)]
 
@@ -19,7 +19,7 @@ To find out if Omnichannel for Customer Service is available in your region, see
 
 Looking for an upgrade? See [Upgrade Omnichannel for Customer Service](upgrade-omnichannel.md) for more information.
 
-You can provision the following channels in Omnichannel for Customer Service:
+You can provision the following channels in Omnichannel (CIO) for Customer Service:
 
 - [Chat](set-up-chat-widget.md)
 - [Voice](voice-channel.md)
